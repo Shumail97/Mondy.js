@@ -1,2 +1,2 @@
-# Mondy.js
+# Monday.js
 rFactorial vs iFactorial
